@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "strict": true,
+        "importHelpers": true,
+        "isolatedModules": true,
+        "noEmit": true,
+        "allowJs": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "experimentalDecorators": true,
+        "lib": ["dom", "esnext"],
+        "baseUrl": ".",
+    //    "rootDir": "./src",
+       "paths": {
+            // "@config": ["config"],
+            "@/*": ["./src/*"]
+       }
+
+    },
+    "exclude": ["node_modules", "dist"],
+    "include": ["./src/**/*.ts", "./src/**/*.tsx", "./src/**/*.vue"]
+}
