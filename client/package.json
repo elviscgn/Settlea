@@ -14,7 +14,7 @@
   "dependencies": {
     "axios": "^1.7.7",
     "nanoid": "^5.0.7",
-    "pixi-viewport": "^5.0.3",
+    "pixi-viewport": "^6.0.3",
     "pixi.js": "^8.3.4",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
