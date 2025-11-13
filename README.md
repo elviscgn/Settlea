@@ -1,5 +1,5 @@
 <h1 align="center">
-Settlea.org (In Development ~20%)
+Settlea.org (In Development)
 </h1>
 <p align="center"> Settlers of Catan Free Open Source Alternative </p>
 <p align="center">
